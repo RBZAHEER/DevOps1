@@ -82,20 +82,11 @@ DevOps1/
 - Starting, restarting, and enabling services using `systemctl`
 - Setting up Security Groups for public access
 
----
-
-## 📍What's Next?
-
-✔️ Add CI/CD using GitHub + AWS CodeDeploy  
-✔️ Automate deployment with shell scripts  
-✔️ Explore Docker and containerized deployment  
-
----
 
 ## 📬 Connect With Me
 
 Feel free to connect if you're also learning DevOps!  
-🔗 [LinkedIn](https://linkedin.com/in/zaheer-mulani)  
+🔗 [LinkedIn](https://www.linkedin.com/in/zaheer95)  
 📁 [GitHub](https://github.com/RBZAHEER)
 
 ---
