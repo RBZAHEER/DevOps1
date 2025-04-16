@@ -68,11 +68,6 @@ DevOps1/
 
 ---
 
-## 📸 Screenshots
-
-![Website Screenshot](./Architecture Diagram.png) (./CMD Line.png) (./Webpage.png)
-
----
 
 ## 🧠 What I Learned
 
