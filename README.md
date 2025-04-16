@@ -1,7 +1,6 @@
 
----
 
-```markdown
+
 # 🚀 DevOps Project #1 – Static Website Deployment on AWS EC2 with Nginx
 
 This is my first hands-on DevOps project where I deployed a static website using **AWS EC2** and **Nginx**.
