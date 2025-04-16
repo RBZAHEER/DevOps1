@@ -70,7 +70,7 @@ DevOps1/
 
 ## 📸 Screenshots
 
-![Website Screenshot](./screenshot.png) <!-- optional -->
+![Website Screenshot](./Architecture Diagram.png) (./CMD Line.png) (./Webpage.png)
 
 ---
 
