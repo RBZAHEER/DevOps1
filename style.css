@@ -28,6 +28,13 @@ p {
   font-size: 1.2rem;
   margin-bottom: 2rem;
 }
+.gif {
+  width: 300px;
+  max-width: 90%;
+  border-radius: 10px;
+  margin: 20px 0;
+  align-items: center;
+}
 
 .btn {
   background-color: #fff;
