@@ -1,4 +1,3 @@
-Absolutely Zaheer! Here's a clean and professional `README.md` you can use for your **DevOps Project #1 – Deploying Static Website on AWS EC2 using Nginx**:
 
 ---
 
